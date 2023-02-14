@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediaandContactsLogin</string>
+    <string name="contacts">Contacts</string>
+    <string name="mediaplayer">MediaPlayer</string>
+</resources>
